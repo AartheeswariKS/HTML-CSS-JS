@@ -1,0 +1,56 @@
+
+h1{
+color:white;
+font-family:TimesNewRoman;
+text-align:center;
+padding:10px;
+border: 5px solid white;
+font-weight:bold;
+background-color:gray;
+text-decoration:underline;
+}
+p
+{
+color:white;
+font-weight:bold;
+}
+li
+{
+color:white;
+font-weight:bold;
+}
+body
+{
+background-image:url('ChessBackgroundImage.png'); 
+border:5px solid white;
+padding:10px;
+margin:10px;
+font-family:arial;
+} 
+table 
+{
+width:50%;
+padding:10px;
+border: 5px solid black;
+border-collapse:collapse;
+}
+th, td 
+{
+border: 5px solid black;
+padding: 10px;
+text-align: center;
+}
+th{
+background-color:lightgray;
+font-color:black;
+}
+td{
+background-color:white;
+font-color:black;
+}
+img
+{
+padding:15px;
+border: 5px solid white;
+margin:30px;
+}
